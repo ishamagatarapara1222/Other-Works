@@ -3,5 +3,6 @@
 name = "isha"
 age = 16
 city = "Surat"
+city1 = "Surat"
 
 print(name, age, city)
